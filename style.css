@@ -8,7 +8,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image:  url(img/rick.png) alt="Rick and Morty getting sucked in a bright green portal while Rick is laughing and Morty seems distressed";
+    background-image:  url(img/rick.png);
     background-position: center;
     background-size: cover;
     position: relative;
