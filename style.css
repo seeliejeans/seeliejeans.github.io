@@ -105,7 +105,7 @@ nav .fab {
     cursor: pointer;
     text-decoration: none;
 }
-/* se muuttaa värii tällä!!! sikasiiistiiii näyttää paremmalt jos border sama tai vaaleempi*/
+/* se muuttaa värii tällä!!! sikasiiistiiii looks better if border same tai vaaleempi*/
 .hero_btn:hover {
     border: 1px solid #aefb66;
     background: #aefb66;
@@ -116,7 +116,7 @@ nav .fa {
     display: none;
 }
 
-/* Responsive Navbar Section Start */
+/* responsive navbarsection start */
 
 @media(max-width: 700px) {
     .text_box h2 {
@@ -155,9 +155,9 @@ nav .fa {
     }
 }
 
-/* Responsive Navbar Section End */
+/* responsive navbar section end */
 
-/* course eli about us Section Start */
+/* course.html eli about us section start */
 
 .course {
     width: 80%;
@@ -241,12 +241,12 @@ p {
     }
 }
 
-/* Course Section End */
+/*  section end */
 
 
 
 
-/* Testimonials Section Start */
+/* testimonials section start meaning those boxes n stuff */
 
 .testimonials {
     margin: auto;
@@ -297,7 +297,7 @@ p {
 
 
 
-/* About Us Section Start */
+/* about us section start */
 
 .Sub-header {
     height: 50vh;
@@ -348,11 +348,11 @@ p {
     color: #fff;
 }
 
-/* About Us Section end */
+/* about us section end */
 
 
 
-/* signup Section Start */
+/* signup section Start */
 
 /*  ne signup email boksit on keskemmällä */
 .contact-us {
@@ -398,4 +398,4 @@ p {
     box-sizing: border-box;
 }
 
-/* signup Section end */
+/* signup section end */
